@@ -7,4 +7,4 @@ spec:
   interval: 1m
   url: https://github.com/PacoZG/dwk-project
   ref:
-    branch: master
+    branch: main
