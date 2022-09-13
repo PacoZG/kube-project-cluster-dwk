@@ -4,7 +4,7 @@ metadata:
   name: project-repo
   namespace: project
 spec:
-  interval: 1m
+  interval: 10s
   url: https://github.com/PacoZG/dwk-project
   ref:
     branch: main
