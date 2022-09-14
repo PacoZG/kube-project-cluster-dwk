@@ -1,10 +1,10 @@
-apiVersion: source.toolkit.fluxcd.io/v1beta1
-kind: GitRepository
-metadata:
-  name: project-repo
-  namespace: project
-spec:
-  interval: 10m
-  url: https://github.com/PacoZG/dwk-project
-  ref:
-    branch: main
+# apiVersion: source.toolkit.fluxcd.io/v1beta1
+# kind: GitRepository
+# metadata:
+#   name: project-repo
+#   namespace: project
+# spec:
+#   interval: 10m
+#   url: https://github.com/PacoZG/dwk-project
+#   ref:
+#     branch: main
